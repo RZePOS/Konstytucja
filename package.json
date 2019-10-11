@@ -1,0 +1,22 @@
+{
+  "name": "konstytucja",
+  "version": "1.0.0",
+  "description": "Konstytucja to pierwszy moduł odwzorowania systemu prawnego za pomocą oprogramowania. Głównymi załozeniami całego projektu jest edukacja w kwestiach systemu prawnego oraz sprawdzenie czy system jest spójny i mozliwy do odtworzenia w postaci systemu informatycznego.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RZePOS/Konstytucja.git"
+  },
+  "author": "Grzegorz Koncewicz (@orchee)",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/RZePOS/Konstytucja/issues"
+  },
+  "homepage": "https://github.com/RZePOS/Konstytucja#readme",
+  "devDependencies": {
+    "typescript": "^3.6.4"
+  }
+}
